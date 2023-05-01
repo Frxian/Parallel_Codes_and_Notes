@@ -143,5 +143,5 @@
 
 #### 测试一个线程调用pop()，一个线程调用push()，保证线程安全
 
-见代码10.1
+见代码 test_concurrent_push_and_pop_on_empty_queue.cpp
 
